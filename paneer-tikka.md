@@ -14,6 +14,7 @@
 * 16 Oz Paneer
 * Ghee
 * Marinade
+
 ### Marinade
 * 2 Cup Curd (Plain Yogurt)
 * 4 TSP Kashmiri Chili Powder
@@ -26,6 +27,7 @@
 * 2 TBSP Ginger Garlic Paste
 * 4 TBSP Besan (Gram Flour)
 * 2 TSP Mustard Oil
+
 ### Dipping Sauce
 * 2 TBSP Green Chutney
 * 1/2 Cup Yogurt
