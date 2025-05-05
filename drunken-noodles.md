@@ -1,6 +1,8 @@
 # Drunken Noodles
-Based On: https://www.joshuaweissman.com/post/the-easiest-stir-fry-dish-drunken-noodles
 
+## Information
+[Original recipe](https://www.joshuaweissman.com/post/the-easiest-stir-fry-dish-drunken-noodles)
+<br>
 **Time:** 20-30 minutes
 <br>
 **Servings:** 4
