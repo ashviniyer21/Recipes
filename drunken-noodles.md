@@ -15,7 +15,7 @@
 * 4 TBSP (Vegetarian) Oyster Sauce
 * 2 Shallots
 * 2 Bell Pepper
-* 16 Oz Tofu
+* 16 Oz (Firm) Tofu
 * 4 Thai Chilies
 * 20 cloves Garlic
 * 2 TBSP Neutral Oil
@@ -34,3 +34,4 @@
 
 ## Notes
 * Use 1 onion if shallots not available
+* Soft / Silken Tofu also works, but requires different preparation. Firm tofu is much easier to work with. Pre-fried tofu can also be added instead.
