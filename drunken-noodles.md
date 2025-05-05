@@ -1,4 +1,5 @@
 # Drunken Noodles
+![Have not taken a picture for this recipe yet](drunken-noodles.png)
 
 ## Information
 [Original recipe](https://www.joshuaweissman.com/post/the-easiest-stir-fry-dish-drunken-noodles)
