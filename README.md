@@ -1,2 +1,2 @@
 # Recipes
-List of Personal Recipes
+- [Drunken Noodles](drunken-noodles.md)
