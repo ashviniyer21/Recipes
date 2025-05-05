@@ -9,12 +9,6 @@
 **Servings:** 4
 
 ## Ingredients
-### Sauce
-* 2 TBSP Soy Sauce
-* 2 TBSP Dark Soy Sauce
-* 3 TBSP (Vegetarian) Fish Sauce
-* 4 TBSP (Vegetarian) Oyster Sauce
-### Stir Fry
 * 2 Shallots
 * 2 Bell Pepper
 * 16 Oz (Firm) Tofu
@@ -23,6 +17,12 @@
 * 2 TBSP Neutral Oil
 * 16 Oz Wide Rice Noodles
 * 2 Cup Thai Basil
+* Stir-fry Sauce
+### Sauce
+* 2 TBSP Soy Sauce
+* 2 TBSP Dark Soy Sauce
+* 3 TBSP (Vegetarian) Fish Sauce
+* 4 TBSP (Vegetarian) Oyster Sauce
 
 ## Instructions
 1. Start cooking the noodles to package instructions. This can happen in parallel with the remaining steps.
