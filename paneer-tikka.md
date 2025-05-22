@@ -29,7 +29,7 @@
 * 2 TSP Mustard Oil
 
 ### Dipping Sauce
-* 2 TBSP Green Chutney
+* 2 TBSP Mint Chutney
 * 1/2 Cup Yogurt
 
 ## Instructions
