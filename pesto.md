@@ -2,6 +2,7 @@
 ![Have not taken a picture for this recipe yet](drunken-noodles.png)
 
 ## Information
+Original recipe: Mom
 <br>
 **Time:** 10 minutes
 <br>
