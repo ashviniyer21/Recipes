@@ -4,3 +4,4 @@ This is an (online) recipe book, filled with personal (vegetarian) recipes colle
 ## List of Recipes
 - [Drunken Noodles](drunken-noodles.md)
 - [Paneer Tikka](paneer-tikka.md)
+- [Pesto](pesto.md)
