@@ -5,3 +5,4 @@ This is an (online) recipe book, filled with personal (vegetarian) recipes colle
 - [Drunken Noodles](drunken-noodles.md)
 - [Paneer Tikka](paneer-tikka.md)
 - [Pesto](pesto.md)
+- [Sweet Water Noodles](chili-garlic-noodles.md)
